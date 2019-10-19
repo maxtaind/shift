@@ -1,8 +1,10 @@
+Uma alteração no início.
+
 Qualquer coisa...
 
 Uma linha antes...
 
-Nossa primeira alteração no arquivo!
+Estou na master.
 
 Outra alteração para comparar commits...
 
